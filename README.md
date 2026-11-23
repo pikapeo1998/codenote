@@ -1,2 +1,1 @@
-# codenote
-this website save code.
+# webcode
