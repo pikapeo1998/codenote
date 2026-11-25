@@ -1995,7 +1995,7 @@ document.addEventListener('keydown', event => {
     date: "25.11.2026",
     readTime: "1 phút đọc",
     image: "assets/pop-up/topic-10.jpg",
-    embedUrl: "https://codepen.io/mican/pen/awxmpY",
+    embedUrl: "https://codepen.io/davidicus/pen/ZYjoVO",
     code: {
       html: `<!--End of Wrap -->
 <div class="wrap">
