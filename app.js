@@ -1553,24 +1553,25 @@ body {
 
 .moving-zone {
     position: absolute;
-    top:50%; left:50%;
-    width:300px; height:120px;
+    top: 50%;
+    left: 50%;
+    width: 300px;
+    height: 120px;
     margin: -60px 0 0 -150px;
     perspective: 800px;
 }
 .popup {
     position: absolute;
-    width:300px;
+    left: 0;
+    top: 0;
+    width: 300px;
     padding: 10px;
     box-sizing: border-box;
     border-radius: 20px 0 20px 0;
     cursor: pointer;
     transform-style: preserve-3d;
-    background: -webkit-linear-gradient(top left, white 50%, coral 50%);
-    background:    -moz-linear-gradient(top left, white 50%, coral 50%);
-    background:     -ms-linear-gradient(top left, white 50%, coral 50%);
-    background:      -o-linear-gradient(top left, white 50%, coral 50%);
-    background:         linear-gradient(top left, white 50%, coral 50%);
+    background: linear-gradient(135deg, white 50%, coral 50%);
+    transition: transform .08s linear, left .08s linear, top .08s linear;
 }
 .popup:before {
     content: '';
@@ -1601,23 +1602,29 @@ body {
     color: coral;
     font-weight: 300;
 }`,
-        js: `var moveForce = 30; // max popup movement in pixels
-var rotateForce = 20; // max popup rotation in deg
+        js: `const popup = document.querySelector('.popup');
+const moveForce = 30;
+const rotateForce = 20;
 
-$(document).mousemove(function(e) {
-    var docX = $(document).width();
-    var docY = $(document).height();
-    
-    var moveX = (e.pageX - docX/2) / (docX/2) * -moveForce;
-    var moveY = (e.pageY - docY/2) / (docY/2) * -moveForce;
-    
-    var rotateY = (e.pageX / docX * rotateForce*2) - rotateForce;
-    var rotateX = -((e.pageY / docY * rotateForce*2) - rotateForce);
-    
-    $('.popup')
-        .css('left', moveX+'px')
-        .css('top', moveY+'px')
-        .css('transform', 'rotateX('+rotateX+'deg) rotateY('+rotateY+'deg)');
+window.addEventListener('mousemove', function(event) {
+    const width = window.innerWidth;
+    const height = window.innerHeight;
+
+    const moveX = (event.clientX / width - 0.5) * -moveForce;
+    const moveY = (event.clientY / height - 0.5) * -moveForce;
+
+    const rotateY = (event.clientX / width * rotateForce * 2) - rotateForce;
+    const rotateX = -((event.clientY / height * rotateForce * 2) - rotateForce);
+
+    popup.style.left = moveX + 'px';
+    popup.style.top = moveY + 'px';
+    popup.style.transform = 'rotateX(' + rotateX + 'deg) rotateY(' + rotateY + 'deg)';
+});
+
+window.addEventListener('mouseleave', function() {
+    popup.style.left = '0';
+    popup.style.top = '0';
+    popup.style.transform = 'rotateX(0deg) rotateY(0deg)';
 });`
     },
   },
