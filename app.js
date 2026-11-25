@@ -971,7 +971,7 @@ h1 {
         js: `// Declare the animation container and parameter to be used in the animation
 var animContainer = document.getElementById('bodymovin');
 // The animation data exported from Adobe After Effects
-var animationData = {"assets":[],"v":"4.3.0","ddd":0,"layers":[{"ddd":0,"ind":0,"ty":1,"nm":"blob__yellow","ks":{"o":{"k":100},"r":{"k":0},"p":{"k":[540,540,0]},"a":{"k":[540,540,0]},"s":{"k":[{"i":{"x":[0.222,0.222,0.667],"y":[1,1,0.667]},"o":{"x":[0.167,0.167,0.167],"y":[0.167,0.167,0.167]},"n":["0p222_1_0p167_0p167","0p222_1_0p167_0p167","0p667_0p667_0p167_0p167"],"t":4,"s":[0,0,100],"e":[100,100,100]},{"t":15}]}},"hasMask":true,"masksProperties":[{"cl":true,"inv":false,"mode":"a","pt":{"k":[{"i":{"x":0.833,"y":0.833},"o":{"x":0.167,"y":0.167},"n":"0p833_0p833_0p167_0p167","t":4,"s":[{"i":[[26.858,-3.247],[25.249,-14.754],[-5.297,-33],[-16.249,-9.037],[-28.885,-3.379],[-21,-2.703],[-40.627,14.108],[-1.297,12],[7.283,17.874],[17.465,10.855]],"o":[[-19,2.297],[-25.249,14.754],[5.297,33],[14.667,8.157],[28.885,3.379],[21,2.703],[17.679,-6.139],[3.22,-29.802],[-8.734,-21.435],[-22.887,-14.224]],"v":[[476,432.703],[431.249,460.246],[379.703,490],[426.333,512.843],[462.115,534.621],[501,518.297],[551.321,547.139],[565.297,516],[575.717,473.126],[521.887,477.224]]}],"e":[{"i":[[145.748,0],[141.126,-140.618],[22.297,-160],[-7.41,-117.525],[-128.115,-71.621],[-127.399,0],[-141.321,102.861],[0,194.556],[64.283,87.874],[138.363,82.457]],"o":[[-214.963,0],[-141.795,141.284],[-17.361,124.581],[3.667,58.158],[116.055,64.879],[236.39,0],[145.858,-106.163],[0,-112.43],[-95.835,-131.005],[-116.724,-69.561]],"v":[[506,3.703],[219.249,247.246],[9.703,488],[92.333,749.842],[72.115,1023.621],[526,936.297],[953.321,953.139],[978.297,592],[1063.717,236.126],[768.887,177.224]]}]},{"i":{"x":0.833,"y":0.833},"o":{"x":0.167,"y":0.167},"n":"0p833_0p833_0p167_0p167","t":21,"s":[{"i":[[145.748,0],[141.126,-140.618],[22.297,-160],[-7.41,-117.525],[-128.115,-71.621],[-127.399,0],[-141.321,102.861],[0,194.556],[64.283,87.874],[138.363,82.457]],"o":[[-214.963,0],[-141.795,141.284],[-17.361,124.581],[3.667,58.158],[116.055,64.879],[236.39,0],[145.858,-106.163],[0,-112.43],[-95.835,-131.005],[-116.724,-69.561]],"v":[[506,3.703],[219.249,247.246],[9.703,488],[92.333,749.842],[72.115,1023.621],[526,936.297],[953.321,953.139],[978.297,592],[1063.717,236.126],[768.887,177.224]]}],"e":[{"i":[[281.812,0],[0,0],[0,-256],[0,-126.158],[0,0],[-271.5,0],[0,0],[0,148.875],[0,156.126],[0,0]],"o":[[-281.812,0],[0,0],[0,256],[0,126.158],[0,0],[271.5,0],[0,0],[0,-148.875],[0,-156.126],[0,0]],"v":[[501.812,0.016],[-0.001,-0.004],[-0.297,416],[0,845.842],[0.115,1079.621],[532.5,1080.297],[1080.036,1079.997],[1080.047,652.875],[1079.967,268.126],[1080.012,-0.026]]}]},{"t":32}]},"o":{"k":100},"x":{"k":0},"nm":"Mask 1"}],"sw":1080,"sh":1080,"sc":"#f4e097","ip":4,"op":33,"st":4,"bm":0,"sr":1},{"ddd":0,"ind":1,"ty":1,"nm":"blob__white","ks":{"o":{"k":100},"r":{"k":0},"p":{"k":[540,540,0]},"a":{"k":[540,540,0]},"s":{"k":[{"i":{"x":[0.222,0.222,0.667],"y":[1,1,0.667]},"o":{"x":[0.167,0.167,0.167],"y":[0.167,0.167,0.167]},"n":["0p222_1_0p167_0p167","0p222_1_0p167_0p167","0p667_0p667_0p167_0p167"],"t":0,"s":[0,0,100],"e":[100,100,100]},{"t":11}]}},"hasMask":true,"masksProperties":[{"cl":true,"inv":false,"mode":"a","pt":{"k":[{"i":{"x":0.833,"y":0.833},"o":{"x":0.167,"y":0.167},"n":"0p833_0p833_0p167_0p167","t":0,"s":[{"i":[[26.858,-3.247],[25.249,-14.754],[-5.297,-33],[-16.249,-9.037],[-28.885,-3.379],[-21,-2.703],[-40.627,14.108],[-1.297,12],[7.283,17.874],[17.465,10.855]],"o":[[-19,2.297],[-25.249,14.754],[5.297,33],[14.667,8.157],[28.885,3.379],[21,2.703],[17.679,-6.139],[3.22,-29.802],[-8.734,-21.435],[-22.887,-14.224]],"v":[[476,432.703],[431.249,460.246],[379.703,490],[426.333,512.843],[462.115,534.621],[501,518.297],[551.321,547.139],[565.297,516],[575.717,473.126],[521.887,477.224]]}],"e":[{"i":[[145.748,0],[141.126,-140.618],[22.297,-160],[-7.41,-117.525],[-128.115,-71.621],[-127.399,0],[-141.321,102.861],[0,194.556],[64.283,87.874],[138.363,82.457]],"o":[[-214.963,0],[-141.795,141.284],[-17.361,124.581],[3.667,58.158],[116.055,64.879],[236.39,0],[145.858,-106.163],[0,-112.43],[-95.835,-131.005],[-116.724,-69.561]],"v":[[506,3.703],[219.249,247.246],[9.703,488],[92.333,749.842],[72.115,1023.621],[526,936.297],[953.321,953.139],[978.297,592],[1063.717,236.126],[768.887,177.224]]}]},{"i":{"x":0.833,"y":0.833},"o":{"x":0.167,"y":0.167},"n":"0p833_0p833_0p167_0p167","t":17,"s":[{"i":[[145.748,0],[141.126,-140.618],[22.297,-160],[-7.41,-117.525],[-128.115,-71.621],[-127.399,0],[-141.321,102.861],[0,194.556],[64.283,87.874],[138.363,82.457]],"o":[[-214.963,0],[-141.795,141.284],[-17.361,124.581],[3.667,58.158],[116.055,64.879],[236.39,0],[145.858,-106.163],[0,-112.43],[-95.835,-131.005],[-116.724,-69.561]],"v":[[506,3.703],[219.249,247.246],[9.703,488],[92.333,749.842],[72.115,1023.621],[526,936.297],[953.321,953.139],[978.297,592],[1063.717,236.126],[768.887,177.224]]}],"e":[{"i":[[281.812,0],[0,0],[0,-256],[0,-126.158],[0,0],[-271.5,0],[0,0],[0,148.875],[0,156.126],[0,0]],"o":[[-281.812,0],[0,0],[0,256],[0,126.158],[0,0],[271.5,0],[0,0],[0,-148.875],[0,-156.126],[0,0]],"v":[[501.812,0.016],[-0.001,-0.004],[-0.297,416],[0,845.842],[0.115,1079.621],[532.5,1080.297],[1080.036,1079.997],[1080.047,652.875],[1079.967,268.126],[1080.012,-0.026]]}]},{"t":28}]},"o":{"k":100},"x":{"k":0},"nm":"Mask 1"}],"sw":1080,"sh":1080,"sc":"#ffffff","ip":0,"op":33,"st":0,"bm":0,"sr":1}],"ip":0,"op":33,"fr":60,"w":1080,"h":1080};
+var animationData = {"assets":[],"v":"4.3.0","ddd":0,"layers":[{"ddd":0,"ind":0,"ty":1,"nm":"blob__yellow","ks":{"o":{"k":100},"r":{"k":0},"p":{"k":[540,540,0]},"a":{"k":[540,540,0]},"s":{"k":[{"i":{"x":[0.222,0.222,0.667],"y":[1,1,0.667]},"o":{"x":[0.167,0.167,0.167],"y":[0.167,0.167,0.167]},"n":["0p222_1_0p167_0p167","0p222_1_0p167_0p167","0p667_0p667_0p167_0p167"],"t":4,"s":[0,0,100],"e":[100,100,100]},{"t":15}]}},"hasMask":true,"masksProperties":[{"cl":true,"inv":false,"mode":"a","pt":{"k":[{"i":{"x":0.833,"y":0.833},"o":{"x":0.167,"y":0.167},"n":"0p833_0p833_0p167_0p167","t":4,"s":[{"i":[[26.858,-3.247],[25.249,-14.754],[-5.297,-33],[-16.249,-9.037],[-28.885,-3.379],[-21,-2.703],[-40.627,14.108],[-1.297,12],[7.283,17.874],[17.465,10.855]],"o":[[-19,2.297],[-25.249,14.754],[5.297,33],[14.667,8.157],[28.885,3.379],[21,2.703],[17.679,-6.139],[3.22,-29.802],[-8.734,-21.435],[-22.887,-14.224]],"v":[[476,432.703],[431.249,460.246],[379.703,490],[426.333,512.843],[462.115,534.621],[501,518.297],[551.321,547.139],[565.297,516],[575.717,473.126],[521.887,477.224]]}],"e":[{"i":[[145.748,0],[141.126,-140.618],[22.297,-160],[-7.41,-117.525],[-128.115,-71.621],[-127.399,0],[-141.321,102.861],[0,194.556],[64.283,87.874],[138.363,82.457]],"o":[[-214.963,0],[-141.795,141.284],[-17.361,124.581],[3.667,58.158],[116.055,64.879],[236.39,0],[145.858,-106.163],[0,-112.43],[-95.835,-131.005],[-116.724,-69.561]],"v":[[506,3.703],[219.249,247.246],[9.703,488],[92.333,749.842],[72.115,1023.621],[526,936.297],[953.321,953.139],[978.297,592],[1063.717,236.126],[768.887,177.224]]}],"e":[{"i":[[281.812,0],[0,0],[0,-256],[0,-126.158],[0,0],[-271.5,0],[0,0],[0,148.875],[0,156.126],[0,0]],"o":[[-281.812,0],[0,0],[0,256],[0,126.158],[0,0],[271.5,0],[0,0],[0,-148.875],[0,-156.126],[0,0]],"v":[[501.812,0.016],[-0.001,-0.004],[-0.297,416],[0,845.842],[0.115,1079.621],[532.5,1080.297],[1080.036,1079.997],[1080.047,652.875],[1079.967,268.126],[1080.012,-0.026]]}]},{"t":32}]},"o":{"k":100},"x":{"k":0},"nm":"Mask 1"}],"sw":1080,"sh":1080,"sc":"#f4e097","ip":4,"op":33,"st":4,"bm":0,"sr":1},{"ddd":0,"ind":1,"ty":1,"nm":"blob__white","ks":{"o":{"k":100},"r":{"k":0},"p":{"k":[540,540,0]},"a":{"k":[540,540,0]},"s":{"k":[{"i":{"x":[0.222,0.222,0.667],"y":[1,1,0.667]},"o":{"x":[0.167,0.167,0.167],"y":[0.167,0.167,0.167]},"n":["0p222_1_0p167_0p167","0p222_1_0p167_0p167","0p667_0p667_0p167_0p167"],"t":0,"s":[0,0,100],"e":[100,100,100]},{"t":11}]}},"hasMask":true,"masksProperties":[{"cl":true,"inv":false,"mode":"a","pt":{"k":[{"i":{"x":0.833,"y":0.833},"o":{"x":0.167,"y":0.167},"n":"0p833_0p833_0p167_0p167","t":0,"s":[{"i":[[26.858,-3.247],[25.249,-14.754],[-5.297,-33],[-16.249,-9.037],[-28.885,-3.379],[-21,-2.703],[-40.627,14.108],[-1.297,12],[7.283,17.874],[17.465,10.855]],"o":[[-19,2.297],[-25.249,14.754],[5.297,33],[14.667,8.157],[28.885,3.379],[21,2.703],[17.679,-6.139],[3.22,-29.802],[-8.734,-21.435],[-22.887,-14.224]],"v":[[476,432.703],[431.249,460.246],[379.703,490],[426.333,512.843],[462.115,534.621],[501,518.297],[551.321,547.139],[565.297,516],[575.717,473.126],[521.887,477.224]]}],"e":[{"i":[[145.748,0],[141.126,-140.618],[22.297,-160],[-7.41,-117.525],[-128.115,-71.621],[-127.399,0],[-141.321,102.861],[0,194.556],[64.283,87.874],[138.363,82.457]],"o":[[-214.963,0],[-141.795,141.284],[-17.361,124.581],[3.667,58.158],[116.055,64.879],[236.39,0],[145.858,-106.163],[0,-112.43],[-95.835,-131.005],[-116.724,-69.561]],"v":[[506,3.703],[219.249,247.246],[9.703,488],[92.333,749.842],[72.115,1023.621],[526,936.297],[953.321,953.139],[978.297,592],[1063.717,236.126],[768.887,177.224]]}],"e":[{"i":[[281.812,0],[0,0],[0,-256],[0,-126.158],[0,0],[-271.5,0],[0,0],[0,148.875],[0,156.126],[0,0]],"o":[[-281.812,0],[0,0],[0,256],[0,126.158],[0,0],[271.5,0],[0,0],[0,-148.875],[0,-156.126],[0,0]],"v":[[501.812,0.016],[-0.001,-0.004],[-0.297,416],[0,845.842],[0.115,1079.621],[532.5,1080.297],[1080.036,1079.997],[1080.047,652.875],[1079.967,268.126],[1080.012,-0.026]]}]},{"t":17,"s":[{"i":[[145.748,0],[141.126,-140.618],[22.297,-160],[-7.41,-117.525],[-128.115,-71.621],[-127.399,0],[-141.321,102.861],[0,194.556],[64.283,87.874],[138.363,82.457]],"o":[[-214.963,0],[-141.795,141.284],[-17.361,124.581],[3.667,58.158],[116.055,64.879],[236.39,0],[145.858,-106.163],[0,-112.43],[-95.835,-131.005],[-116.724,-69.561]],"v":[[506,3.703],[219.249,247.246],[9.703,488],[92.333,749.842],[72.115,1023.621],[526,936.297],[953.321,953.139],[978.297,592],[1063.717,236.126],[768.887,177.224]]}],"e":[{"i":[[281.812,0],[0,0],[0,-256],[0,-126.158],[0,0],[-271.5,0],[0,0],[0,148.875],[0,156.126],[0,0]],"o":[[-281.812,0],[0,0],[0,256],[0,126.158],[0,0],[271.5,0],[0,0],[0,-148.875],[0,-156.126],[0,0]],"v":[[501.812,0.016],[-0.001,-0.004],[-0.297,416],[0,845.842],[0.115,1079.621],[532.5,1080.297],[1080.036,1079.997],[1080.047,652.875],[1079.967,268.126],[1080.012,-0.026]]}]},{"t":28}]},"o":{"k":100},"x":{"k":0},"nm":"Mask 1"}],"sw":1080,"sh":1080,"sc":"#ffffff","ip":0,"op":33,"st":0,"bm":0,"sr":1}],"ip":0,"op":33,"fr":60,"w":1080,"h":1080};
 var params = {
     container: animContainer,
     renderer: 'svg',
@@ -1057,7 +1057,7 @@ close.addEventListener("click", function() {
     Auther: Abdelrhman Said
 */
 
-@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+@import url("https://fonts.googleapis.com/css2?family:Poppins&display=swap");
 
 * {
   margin: 0;
@@ -1630,584 +1630,415 @@ window.addEventListener('mouseleave', function() {
   },
 
   {
-    id: "Magnific-Gallery",
-    index: "09",
+    id: "Loader-Popup",
+    index: "18",
     category: "Pop-up",
-    title: "Magnific Gallery",
-    excerpt: "Magnific Gallery",
+    title: "Loader & Popup",
+    excerpt: "Loader & Popup",
     date: "25.11.2026",
     readTime: "1 phút đọc",
-    image: "assets/pop-up/topic-9.jpg",
-    embedUrl: "https://codepen.io/mican/pen/awxmpY",
+    image: "assets/pop-up/topic-18.jpg",
+    embedUrl: "https://codepen.io/joaojusto/pen/ZGrPKv",
     code: {
-      html: `%article.gallery
-  - [1081, 1014, 267, 266, 634, 923, 682, 173, 943].each do |i|
-    - height = 200 * [5,6,7,8].shuffle.first.to_i
-    - width =  200 * [5,6,7,8].shuffle.first.to_i
-    %a.gallery-link{:href => "https://unsplash.it/#{width}/#{height}?image=#{i}"}
-      %figure.gallery-image
-        %img{src: "https://unsplash.it/#{width}/#{height}?image=#{i}", width: width, height: height}
-        %figcaption Photo caption
-        
-        
-%footer#footer{role: 'contentinfo'}
-
-  .container
-    %a.logo{href: 'https://codepen.io/collection/XRoxGR', rel: 'home'} Calibration theme
-    %a.copy{href: 'https://mobilemarkup.com', target: '_blank'} &copy; mobileMarkup.com`,
-      css: `%gallery-image-caption
-  position: absolute
-  top: 50%
-  left: 50%
-  transform: translate(-50%,-50%)
-  font-size: 14px
-  color: rgba(white,0)
-  padding: 1em
-  transition: all .2s ease
-  font-weight: 600
-  max-width: calc(100% - 9em)
-  line-height: 1.25
-  text-align: center
-  box-sizing: border-box
-
-
-  &:before, &:after
-    content: ''
-    position: absolute
-    background: rgba(black,.2)
-    width: 100%
-    height: 100%
-    padding: 1em
-    transition: all .3s ease-in-out
-    opacity: 0
-    z-index: -1
-
-  &:before, &:after
-    right: 100%
-    bottom: 100%
-  &:after
-    left: 100%
-    top: 100%
-
-%gallery-image-caption-visible
-  color: rgba(white,1)
-  text-shadow: 0 0 1px rgba(black,.2)
-  transition: all .2s ease .3s
-  &:before, &:after
-    opacity: 1
-  &:before
-    right: -1.5em
-    bottom: -1.5em
-  &:after
-    left: -1.5em
-    top: -1.5em
-
-html
-  -moz-osx-font-smoothing: grayscale
-  -webkit-font-smoothing: antialiased
-  text-rendering: optimizelegibility
-    
-body
-  font-family: 'Montserrat', sans-serif
-    
-.gallery
-  
-  column-gap: 0
-  @media (min-width: 480px)
-    column-count: 2
-  @media (min-width: 1260px)
-    column-count: 3
-
-.gallery-image
-  position: relative
-  margin: 0
-  padding: 0
-  &:before, &:after
-    content: ''
-    position: absolute
-    top: 0
-    left: 0
-    right: 0
-    bottom: 0
-    border: 16px solid rgba(black,.1)
-    transition: all .2s
-    will-change: border
-  &:after
-    border-width: 0
-
-  img
-    display: block
-    max-width: 100%
-    height: auto
-    
-  html:not(.touch) &
-    overflow: hidden
-    figcaption
-      @extend %gallery-image-caption
-    &:hover
-      &:before
-        border-width: 16px
-      &:after
-        border-width: 32px
-      figcaption
-        @extend %gallery-image-caption-visible
-
-  .touch &
-    figcaption
-      @extend %gallery-image-caption
-      @extend %gallery-image-caption-visible
-      top: auto
-      bottom:   2em
-      
-.mfp-with-zoom
-  .mfp-container, &.mfp-bg
-    opacity: 0
-    backface-visibility: hidden
-    transition: all 0.3s ease-out
-
-  &.mfp-bg
-    background-color: rgba(black,.9)
-
-  &.mfp-ready
-    .mfp-container
-      opacity: 1
-    &.mfp-bg
-      opacity: 1
-  &.mfp-removing
-
-
-
-    .mfp-container, &.mfp-bg
-      opacity: 0
-
-
-  // .mfp-nomargins
-  img.mfp-img
-    padding: 0
-
-  .mfp-figure:after
-    top: 0
-    bottom: 0
-  .mfp-container
-    padding: 0
-
-  .mfp-content
-    overflow: hidden
-
-
-  .mfp-bottom-bar
-    top: auto
-    bottom: 0
-    margin-top: 0
-
-  .mfp-title
-    @extend %gallery-image-caption
-    top: auto
-    bottom: 2em
-
-  &.mfp-ready .mfp-title
-    @extend %gallery-image-caption-visible
-
-
-
-
-.mfp-arrow
-  opacity: 1
-  margin-top: 0!important
-  width: 20%
-  height: 30%
-  // background: rgba(black,.2)!important
-  transform: translateY(-50%)
-
-  &:hover, &:focus
-
-  &:before, &:after
-    margin: 0
-    border: none
-    width: 2rem
-    height: 2rem
-
-    transform: rotate(-45deg) translate(-50%,-100%)
-    opacity: 1
-    top: 50%
-    left: 50%
-    transition: all .15s
-
-  &:active
-    transform: translateY(-50%) scale(.95)
-
-.mfp-arrow-left
-  left: 0
-  &:before, &:after
-    border-top: 2px solid white
-    border-left: 2px solid white
-  &:before
-  &:after
-    margin-left: 2rem
-
-  &:hover, &:active
-    &:before
-      margin-left: 2rem
-    &:after
-      margin-left: 0
-
-.mfp-arrow-right
-  right: 0
-  &:before, &:after
-    border-right: 2px solid white
-    border-bottom: 2px solid white
-  &:before
-  &:after
-    margin-left: 2rem
-
-  &:hover
-    &:before
-      margin-left: 2rem
-    &:after
-      margin-left: 0
-
-
-
-button.mfp-close
-  opacity: 1
-  margin-top: 0!important
-  width: 20%
-  height: 30%
-  font: 0/0 serif
-  text-shadow: none
-  color: transparent
-  &:hover, &:focus
-
-  &:before, &:after
-    content: ''
-    position: absolute
-    top: 50%
-    left: 50%
-    margin: 0
-    border: none
-    width: 2rem
-    height: 2rem
-    opacity: 1
-    transition: all .15s
-    transform-origin: 0 0
-    border-top: 2px solid white
-    border-left: 2px solid white
-    
-
-  &:before
-    transform: rotate(-45deg)
-  &:after
-    transform: rotate(135deg)
-  &:hover
-    &:before
-      transform: rotate(135deg)
-    &:after
-      transform: rotate(315deg)
-
-  &:active
-    transform: scale(.95)
-
-a
-  text-decoration: none
-  color: inherit
-  
-[id=footer]
-  margin-top: 10vh
-  padding: 10vh 0
-  text-align: center
-  .container
-    position: relative
-    &:before, &:after
-      content: ''
-      position: absolute
-      bottom: 100%
-      left: 20px
-      z-index: 10
-      border-top: 2px solid
-      width: 10%
-      margin-bottom: 10vh
-    &:after
-      left: auto
-      right: 20px
-
-  *
-    display: block
-    + *
-      margin-top: 5vh
-  .logo
-    font-weight: 600
-    font-size: 1.5em
-  .copy
-    text-transform: uppercase
-    font-size: .75em
-    font-weight: 600
-
-`,
-        js: `const links = [...document.querySelectorAll('.gallery-link')];
-const modal = document.createElement('div');
-modal.className = 'gallery-modal';
-modal.innerHTML = '<button class="gallery-modal-close" aria-label="Đóng">×</button><button class="gallery-modal-prev" aria-label="Ảnh trước">‹</button><img alt=""><button class="gallery-modal-next" aria-label="Ảnh sau">›</button><span class="gallery-modal-caption"></span>';
-document.body.appendChild(modal);
-
-const modalImage = modal.querySelector('img');
-const caption = modal.querySelector('.gallery-modal-caption');
-let currentIndex = 0;
-
-function showImage(index) {
-  currentIndex = (index + links.length) % links.length;
-  modalImage.style.opacity = '0';
-  modalImage.src = links[currentIndex].href;
-  modalImage.alt = links[currentIndex].title || '';
-  caption.textContent = links[currentIndex].title || '';
-  modalImage.onload = () => { modalImage.style.opacity = ''; };
+      html:`<div class="Hero">
+  <svg class="Buildings" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg2" viewBox="0 0 939 563">
+    <title id="title4">
+      town-sketch
+    </title>
+    <defs id="defs6">
+      <linearGradient id="linearGradient-1" x1="50%" x2="50%" y1="0%" y2="100%">
+        <stop id="stop9" stop-color="#EEE7D5" offset="0%" />
+        <stop id="stop11" stop-color="#E1D9C8" offset="100%" />
+      </linearGradient>
+      <path id="path-2" d="M0 0h106.13v9.8H0z" />
+      <linearGradient id="linearGradient-3" x1="50%" x2="50%" y1="0%" y2="97.9%">
+        <stop id="stop15" stop-color="#7DB6BE" offset="0%" />
+        <stop id="stop17" stop-color="#68A5AD" offset="100%" />
+      </linearGradient>
+      <linearGradient id="linearGradient-4" x1="50%" x2="50%" y1="0%" y2="100%">
+        <stop id="stop20" stop-color="#18D7F6" offset="0%" />
+        <stop id="stop22" stop-color="#45BFFF" offset="100%" />
+      </linearGradient>
+      <linearGradient id="linearGradient-5" x1="50%" x2="50%" y1="0%" y2="100%">
+        <stop id="stop25" stop-color="#768A93" offset="0%" />
+        <stop id="stop27" stop-color="#44616E" offset="100%" />
+      </linearGradient>
+      <linearGradient id="linearGradient-6" x1="50%" x2="50%" y1="0%" y2="100%">
+        <stop id="stop30" stop-color="#608490" offset="0%" />
+        <stop id="stop32" stop-color="#395B63" offset="100%" />
+      </linearGradient>
+      <linearGradient id="linearGradient-7" x1="50%" x2="50%" y1="0%" y2="100%">
+        <stop id="stop35" stop-color="#8BD8E5" offset="0%" />
+        <stop id="stop37" stop-color="#57C4D7" offset="100%" />
+      </linearGradient>
+      <linearGradient id="linearGradient-8" x1="50%" x2="50%" y1="0%" y2="100%">
+        <stop id="stop40" stop-color="#4391B4" offset="0%" />
+        <stop id="stop42" stop-color="#2E6882" offset="100%" />
+      </linearGradient>
+      <linearGradient id="linearGradient-9" x1="50%" x2="50%" y1="0%" y2="100%">
+        <stop id="stop45" stop-color="#F9F9F9" offset="0%" />
+        <stop id="stop47" stop-color="#E6E6E6" offset="100%" />
+      </linearGradient>
+      <path id="path-10" d="M0 0h106.13v9.8H0z" />
+      <linearGradient id="linearGradient3337" x1="18.67" x2="18.67" y2="37.34" xlink:href="#linearGradient-4" gradientTransform="matrix(2.397 0 0 .417 0 -3.463)" gradientUnits="userSpaceOnUse" />
+      <linearGradient id="linearGradient3339" x1="25.64" x2="25.64" y1="511.44" y2="550.67" xlink:href="#linearGradient-4" gradientTransform="matrix(2.906 0 0 .344 0 -2)" gradientUnits="userSpaceOnUse" />
+    </defs>
+    <g id="Page-1" fill="none" fill-rule="evenodd">
+      <g id="Artboard-13-Copy">
+        <g id="town-sketch">
+          <g id="background">
+            <path id="Rectangle-673-Copy-10" fill="#f4f9f9" d="M746.64 136.84l55.76-33.5 6.77-58V99.9l38.47-22.56v484.43h-101V136.84z" />
+            <path id="Rectangle-673-Copy-12" fill="#f4f9f9" d="M646.64 77.35h108.1v484.43h-108.1V77.35z" />
+            <path id="Rectangle-673-Copy-25" fill="#F4F9F9" d="M418 110.1h78.37v452.4H418V110.1z" />
+            <path id="Rectangle-673-Copy-11" fill="#E3F0F4" d="M444 196.38l-87-51.25V562.5h87V196.38z" />
+            <path id="Rectangle-673-Copy-24" fill="#E3F0F4" d="M556 171.2h12.54v-16.06H458v16.05h11v391.3h87V171.2z" />
+            <path id="Rectangle-673-Copy-9" fill="#f4f9f9" d="M126.64 78.97l49.02-79.7 51.98 79.7v482.8h-101V78.97z" />
+            <path id="Rectangle-673-Copy-22" fill="#f4f9f9" d="M206.64 203.54l49.02-59.13 51.98 59.17V561.8h-101V203.53z" />
+            <path id="Rectangle-673-Copy-7" fill="#e3f0f4" d="M275.64 168.43h108v393.35h-108V168.43z" />
+            <path id="Rectangle-673-Copy-23" fill="#e3f0f4" d="M543.64 109.38l108-54.05v506.45h-108v-452.4z" />
+            <path id="Rectangle-673-Copy-26" fill="#e3f0f4" d="M157.64 257.96h12.54V245.5H59.64v12.46h11v303.82h87V257.96z" />
+          </g>
+          <g id="building7">
+            <path id="Rectangle-371-Copy-31" fill="url(#linearGradient-1)" d="M4.08 0h97.96v222.87H4.08z" transform="translate(689 339)" />
+            <path id="Rectangle-371-Copy-23" fill="#000" fill-opacity=".05" d="M693.08 348.8h97.96v4.08h-97.96z" />
+            <g id="Rectangle-371-Copy-24" transform="translate(689 339)">
+              <use id="use68" fill="#5E8FA5" xlink:href="#path-2" />
+              <use id="use70" xlink:href="#path-2" />
+            </g>
+            <path id="Rectangle-371-Copy-25" fill="#BF6363" d="M693.08 523.1h97.96v39.18h-97.96z" />
+            <path id="Rectangle-371-Copy-26" fill="#C34400" d="M693.08 523.5h97.96v-.82h-97.96z" />
+            <path id="Rectangle-371-Copy-27" fill="#FFF" d="M693.43 533.5h98v-1h-98z" />
+            <path id="Rectangle-371-Copy-28" fill="#FFF" d="M693.43 541.5h98v-1h-98z" />
+            <path id="Rectangle-371-Copy-29" fill="#FFF" d="M693.43 548.5h98v-1h-98z" />
+            <path id="Rectangle-371-Copy-30" fill="#FFF" d="M693.43 555.5h98v-1h-98z" />
+            <g id="windows7">
+              <g id="Rectangle-372-Copy-73-+-Rectangle-372-Copy-75-+-Rectangle-372-Copy-76">
+                <path id="Rectangle-372-Copy-73" fill="#f0fafe" stroke="#4b4b4b" stroke-width="6" d="M723.7 510.5h36.74v48.72H723.7z" />
+                <path id="Rectangle-372-Copy-75" fill="#000" fill-opacity=".1" d="M726.14 511.73h31.03v4.06h-26.13v39.33h-4.9V511.7z" />
+                <path id="Rectangle-372-Copy-76" fill="#f06f2a" d="M751.04 532.1h3.27v6.17h-3.23z" />
+              </g>
+              <g id="Rectangle-372-Copy-71-+-Rectangle-372-Copy-72-+-Rectangle-372-Copy-74">
+                <path id="Rectangle-372-Copy-71" fill="#000" fill-opacity=".05" d="M724.1 474.8h36.74v26H724.1z" />
+                <path id="Rectangle-372-Copy-72" fill="#e1f4fa" stroke="#fff" stroke-width="6" d="M723.7 469.98h36.74v25.98H723.7z" />
+                <path id="Rectangle-372-Copy-74" fill="#000" fill-opacity=".05" d="M726.14 472.4h31.03v4.07h-26.13v16.65h-4.9v-20.7z" />
+              </g>
+              <g id="Rectangle-372-Copy-68-+-Rectangle-372-Copy-69-+-Rectangle-372-Copy-70">
+                <path id="Rectangle-372-Copy-68" fill="#000" fill-opacity=".05" d="M724.1 430.16h36.74v25.98H724.1z" />
+                <path id="Rectangle-372-Copy-69" fill="#e1f4fa" stroke="#fff" stroke-width="6" d="M723.7 425.32h36.74v25.98H723.7z" />
+                <path id="Rectangle-372-Copy-70" fill="#000" fill-opacity=".05" d="M726.14 427.76h31.03v4.06h-26.13v16.64h-4.9v-20.7z" />
+              </g>
+              <g id="Rectangle-372-Copy-58-+-Rectangle-372-Copy-59-+-Rectangle-372-Copy-67">
+                <path id="Rectangle-372-Copy-58" fill="#000" fill-opacity=".05" d="M724.1 385.5h36.74v26H724.1z" />
+                <path id="Rectangle-372-Copy-59" fill="#e1f4fa" stroke="#fff" stroke-width="6" d="M723.7 380.67h36.74v25.98H723.7z" />
+                <path id="Rectangle-372-Copy-67" fill="#000" fill-opacity=".05" d="M726.14 383.1h31.03v4.07h-26.13v16.64h-4.9v-20.7z" />
+              </g>
+            </g>
+          </g>
+          <g id="building5">
+            <path id="Rectangle-371-Copy-20" fill="url(#linearGradient-3)" d="M6.5 18.5h136v301H6.5z" transform="translate(538 242)" />
+            <path id="Rectangle-371-Copy-16" fill="#000" fill-opacity=".05" d="M544 268h136v5.5H544z" />
+            <path id="Rectangle-371-Copy-19" fill="#FCBC57" d="M538 242h147v26.5H538z" />
+            <g id="windows5">
+              <g id="Group">
+                <path id="Rectangle-372-Copy-50" fill="#000" fill-opacity=".05" d="M559.5 431.5h105V481h-105z" />
+                <path id="Rectangle-372-Copy-52" fill="#e1f4fa" stroke="#fff" stroke-width="6" d="M560 425.5h105V475H560z" />
+              </g>
+              <g id="Rectangle-372-Copy-47-+-Rectangle-372-Copy-53-+-Rectangle-372-Copy-103">
+                <path id="Rectangle-372-Copy-47" fill="#000" fill-opacity=".05" d="M558.5 371H664v26.5H558.5z" />
+                <path id="Rectangle-372-Copy-53" fill="#e1f4fa" stroke="#fff" stroke-width="6" d="M558.5 365.5H664V392H558.5z" />
+                <path id="Rectangle-372-Copy-103" fill="#000" fill-opacity=".05" d="M561.85 368.75h97.5V373h-94v15.25h-3.5v-19.5z" />
+              </g>
+              <g id="Rectangle-372-Copy-46-+-Rectangle-372-Copy-48-+-Rectangle-372-Copy-102">
+                <path id="Rectangle-372-Copy-46" fill="#000" fill-opacity=".05" d="M558.5 331.5H664V358H558.5z" />
+                <path id="Rectangle-372-Copy-48" fill="#e1f4fa" stroke="#fff" stroke-width="6" d="M558.5 326H664v26.5H558.5z" />
+                <path id="Rectangle-372-Copy-102" fill="#000" fill-opacity=".05" d="M561.85 329.25h97.5v4.25h-94v15.25h-3.5v-19.5z" />
+              </g>
+              <g id="Rectangle-372-Copy-90-+-Rectangle-372-Copy-88-+-Rectangle-372-Copy-101">
+                <path id="Rectangle-372-Copy-90" fill="#000" fill-opacity=".05" d="M558.5 291.5H664V318H558.5z" />
+                <path id="Rectangle-372-Copy-88" fill="#e1f4fa" stroke="#fff" stroke-width="6" d="M558.5 286H664v26.5H558.5z" />
+                <path id="Rectangle-372-Copy-101" fill="#000" fill-opacity=".05" d="M561.85 289.25h97.5v4.25h-94v15.25h-3.5v-19.5z" />
+              </g>
+            </g>
+            <path id="Rectangle-484-Copy-13" fill="#000" fill-opacity=".05" d="M555.5 420.5h114V434h-114z" />
+            <path id="Rectangle-484-Copy-14" fill="url(#linearGradient3339)" d="M17.5 174h114v13.5h-114z" transform="translate(538 242)" />
+          </g>
+          <g id="building6">
+            <path id="rect118" fill="url(#linearGradient-5)" d="M5.45 0h130.9v297.82H5.45z" transform="translate(797 265)" />
+            <path id="rect120" fill="#000" fill-opacity=".05" d="M802.45 278.1h130.9v5.44h-130.9z" />
+            <path id="rect122" fill="#C16565" d="M797 265h141.82v13.1H797z" />
+            <g id="windows6">
+              <g id="g125">
+                <path id="rect127" fill="#2c4b56" stroke="#fff" stroke-width="6" d="M843.36 494.08h49.1v65.45h-49.1z" />
+                <path id="path129" fill="#000" fill-opacity=".05" d="M846.64 496.72h41.45v5.45h-34.95v52.9h-6.54v-58.35z" />
+                <path id="rect131" fill="#123340" d="M879.9 523.1h4.37v8.3h-4.36z" />
+              </g>
+              <g id="g133">
+                <path id="rect135" fill="#000" fill-opacity=".05" d="M813.9 446.68H863v34.9h-49.1z" />
+                <path id="rect137" fill="#e1f4fa" stroke="#fff" stroke-width="6" d="M813.36 441.36h49.1v34.9h-49.1z" />
+                <path id="Rectangle-372-Copy-86" fill="#000" fill-opacity=".05" d="M873.9 446.68H923v34.9h-49.1z" />
+                <path id="Rectangle-372-Copy-87" fill="#e1f4fa" stroke="#fff" stroke-width="6" d="M873.36 441.36h49.1v34.9h-49.1z" />
+                <path id="Rectangle-372-Copy-95" fill="#000" fill-opacity=".05" d="M816.5 444.5h43v6H822V473h-5.5v-28.5z" />
+                <path id="Rectangle-372-Copy-94" fill="#000" fill-opacity=".05" d="M876.5 444.5h43v6H882V473h-5.5v-28.5z" />
+              </g>
+              <g id="g143">
+                <path id="rect145" fill="#000" fill-opacity=".05" d="M813.9 386.68H863v34.9h-49.1z" />
+                <path id="rect147" fill="#e1f4fa" stroke="#fff" stroke-width="6" d="M813.36 381.36h49.1v34.9h-49.1z" />
+                <path id="Rectangle-372-Copy-84" fill="#000" fill-opacity=".05" d="M873.9 386.68H923v34.9h-49.1z" />
+                <path id="Rectangle-372-Copy-85" fill="#e1f4fa" stroke="#fff" stroke-width="6" d="M873.36 381.36h49.1v34.9h-49.1z" />
+                <path id="Rectangle-372-Copy-93" fill="#000" fill-opacity=".05" d="M816.5 384.5h43v6H822V413h-5.5v-28.5z" />
+                <path id="Rectangle-372-Copy-92" fill="#000" fill-opacity=".05" d="M876.5 384.5h43v6H882V413h-5.5v-28.5z" />
+              </g>
+              <g id="g153">
+                <path id="rect155" fill="#000" fill-opacity=".05" d="M813.9 326.68H863v34.9h-49.1z" />
+                <path id="rect157" fill="#e1f4fa" stroke="#fff" stroke-width="6" d="M813.36 321.36h49.1v34.9h-49.1z" />
+                <path id="Rectangle-372-Copy-77" fill="#000" fill-opacity=".05" d="M816.5 324.5h43v6H822V353h-5.5v-28.5z" />
+                <path id="Rectangle-372-Copy-91" fill="#000" fill-opacity=".05" d="M873.9 326.68H923v34.9h-49.1z" />
+                <path id="Rectangle-372-Copy-83" fill="#e1f4fa" stroke="#fff" stroke-width="6" d="M873.36 321.36h49.1v34.9h-49.1z" />
+                <path id="Rectangle-372-Copy-78" fill="#000" fill-opacity=".05" d="M876.5 324.5h43v6H882V353h-5.5v-28.5z" />
+              </g>
+            </g>
+          </g>
+          <g id="building3">
+            <path id="rect164" fill="url(#linearGradient-6)" d="M6.5 18.5h136v301H6.5z" transform="translate(266 242)" />
+            <path id="rect166" fill="#000" fill-opacity=".1" d="M272 268h136v5.5H272z" />
+            <path id="rect168" fill="#1FA7C8" d="M266 242h147v26.5H266z" />
+            <g id="windows3">
+              <g id="Rectangle-372-Copy-47-+-Rectangle-372-Copy-53-+-Rectangle-372-Copy-97">
+                <path id="rect172" fill="#000" fill-opacity=".05" d="M286.5 373H392v26.5H286.5z" />
+                <path id="rect174" fill="#e1f4fa" stroke="#fff" stroke-width="6" d="M286.5 367.5H392V394H286.5z" />
+                <path id="Rectangle-372-Copy-97" fill="#000" fill-opacity=".05" d="M289.5 370.5H392v4.25h-99V390h-3.5v-19.5z" />
+              </g>
+              <g id="Rectangle-372-Copy-46-+-Rectangle-372-Copy-48-+-Rectangle-372-Copy-98">
+                <g id="g178">
+                  <path id="rect180" fill="#000" fill-opacity=".05" d="M286.5 333H392v26.5H286.5z" />
+                  <path id="rect182" fill="#e1f4fa" stroke="#fff" stroke-width="6" d="M286.5 328H392v26.5H286.5z" />
+                  <path id="Rectangle-372-Copy-98" fill="#000" fill-opacity=".05" d="M289.5 331H392v4.25h-99v15.25h-3.5V331z" />
+                </g>
+              </g>
+              <g id="g185">
+                <path id="Rectangle-372-Copy-60" fill="#000" fill-opacity=".05" d="M287.5 296h46v26.5h-46z" />
+                <path id="Rectangle-372-Copy-61" fill="#000" fill-opacity=".05" d="M345.5 296h46v26.5h-46z" />
+                <path id="Rectangle-372-Copy-62" fill="#e1f4fa" stroke="#fff" stroke-width="6" d="M287.5 291h46v26.5h-46z" />
+                <path id="Rectangle-372-Copy-65" fill="#e1f4fa" stroke="#fff" stroke-width="6" d="M346 291h46v26.5h-46z" />
+                <path id="Rectangle-372-Copy-99" fill="#000" fill-opacity=".05" d="M290.5 294.5h40v4.25H294V314h-3.5v-19.5z" />
+                <path id="Rectangle-372-Copy-100" fill="#000" fill-opacity=".05" d="M349 294.5h40v4.25h-36.5V314H349v-19.5z" />
+              </g>
+              <g id="g193">
+                <path id="rect195" fill="#000" fill-opacity=".05" d="M287.5 432.5h105V482h-105z" />
+                <path id="rect197" fill="#E1F4FA" stroke="#FFF" stroke-width="6" d="M288 427.5h105V477H288z" />
+                <path id="Rectangle-372-Copy-96" fill="#000" fill-opacity=".05" d="M291 429h97.5v6.75H296V474h-5v-45z" />
+              </g>
+            </g>
+            <path id="rect200" fill="#000" fill-opacity=".05" d="M283.5 422.5h114V436h-114z" />
+            <path id="rect202" fill="#FCBC57" d="M283.5 418h114v13.5h-114z" />
+          </g>
+          <g id="building4">
+            <path id="Rectangle-603" fill="#000" fill-opacity=".05" d="M383.5 241.5h167v320h-167z" />
+            <path id="Rectangle-371-Copy-18" fill="url(#linearGradient-7)" d="M12.75 27.25h154.5V467.5H12.75z" transform="translate(377 94)" />
+            <path id="Rectangle-371-Copy-14" fill="#000" fill-opacity=".05" d="M389.75 124.25h154.5v6.44h-154.5z" />
+            <path id="Rectangle-371-Copy-13" fill="#2E7EAA" d="M383.3 94.47h167.37v30H383.3z" />
+            <path id="Rectangle-484-Copy-12" fill="#000" fill-opacity=".05" d="M389.5 205H545v22.5H389.5z" />
+            <path id="Rectangle-484-Copy-2" fill="#3DE6D3" d="M377 199h177v22.5H377z" />
+            <g id="windows4">
+              <g id="g212">
+                <path id="Rectangle-372-Copy-37" fill="#b4e1f0" stroke="#fff" stroke-width="6" d="M431.75 468.1h68.5v89.93h-68.5z" />
+                <path id="Rectangle-372-Copy-38" fill="#d0f2fd" stroke="#fff" stroke-width="6" d="M431.75 468.1h35.5v89.93h-35.5z" />
+                <path id="Rectangle-372-Copy-41" fill="#000" fill-opacity=".05" d="M434.97 559.55v-83.4h4.12v83.4h-4.16z" />
+                <path id="Rectangle-389-Copy" fill="#474747" d="M459.5 510.3h15v7.03h-15z" />
+              </g>
+              <g id="Rectangle-372-Copy-36-+-Rectangle-372-Copy-28">
+                <path id="Rectangle-372-Copy-36" fill="#000" fill-opacity=".05" d="M406 406h120v30H406z" />
+                <path id="Rectangle-372-Copy-28" fill="#e1f4fa" stroke="#fff" stroke-width="6" d="M406 401h120v30H406z" />
+              </g>
+              <g id="g221">
+                <path id="Rectangle-372-Copy-89" fill="#000" fill-opacity=".05" d="M407.37 391.63v-150h30v150h-30z" />
+                <path id="Rectangle-372-Copy-81" fill="#000" fill-opacity=".05" d="M452.87 391.63v-150h30v150h-30z" />
+                <path id="Rectangle-372-Copy-82" fill="#000" fill-opacity=".05" d="M497.37 391.63v-150h30v150h-30z" />
+                <g id="Rectangle-372-Copy-29-+-Rectangle-372-Copy-31-+-Rectangle-372-Copy-35" fill="#E1F4FA" stroke="#FFF" stroke-width="6">
+                  <path id="Rectangle-372-Copy-29" d="M407.37 386.63v-150h30v150h-30z" />
+                  <path id="Rectangle-372-Copy-31" d="M452.87 386.63v-150h30v150h-30z" />
+                  <path id="Rectangle-372-Copy-35" d="M497.37 386.63v-150h30v150h-30z" />
+                </g>
+              </g>
+              <g id="g230">
+                <path id="Rectangle-372-Copy-39" fill="#c0e8f5" stroke="#fff" stroke-width="6" d="M406 141.17h120v56.25H406z" />
+                <path id="Rectangle-372-Copy-44" fill="#e1f4fa" stroke="#fff" stroke-width="6" d="M406 141.17h61.25v56.25H406z" />
+                <path id="Rectangle-372-Copy-109" fill="#000" fill-opacity=".05" d="M409 144h55v4.25h-51.5v46.25H409V144z" />
+                <path id="Rectangle-372-Copy-110" fill="#000" fill-opacity=".05" d="M467.5 144h55v4.25H471v46.25h-3.5V144z" />
+              </g>
+            </g>
+            <g id="Rectangle-484-Copy-+-Rectangle-484">
+              <path id="Rectangle-484-Copy" fill="#000" fill-opacity=".05" d="M421 460.56h89.5v15.58H421z" />
+              <path id="Rectangle-484" fill="url(#linearGradient3337)" d="M0-3.46h89.5v15.58H0z" transform="translate(421 459)" />
+            </g>
+            <path id="Rectangle-484-Copy-3" fill="#55A6D6" fill-opacity=".15" stroke="#FFF" stroke-width="4" d="M377 199h177v-20H377z" />
+            <path id="Rectangle-484-Copy-4" stroke="#FFF" stroke-width="4" d="M377 199h45v-20h-45z" />
+            <path id="Rectangle-484-Copy-5" stroke="#FFF" stroke-width="4" d="M420.5 199h45v-20h-45z" />
+            <path id="Rectangle-484-Copy-6" stroke="#FFF" stroke-width="4" d="M464 199h45v-20h-45z" />
+          </g>
+          <g id="building2">
+            <path id="rect244" fill="url(#linearGradient-8)" d="M5.45 2h130.9v297.82H5.45z" transform="translate(113 262)" />
+            <path id="rect246" fill="#000" fill-opacity=".05" d="M118.45 275.1h130.9v5.44h-130.9z" />
+            <path id="rect248" fill="#3DE6D3" d="M113 262h141.82v13.1H113z" />
+            <g id="windows2">
+              <g id="g251">
+                <path id="rect253" fill="#2c4b56" stroke="#fff" stroke-width="6" d="M159.36 493.43h49.1v65.45h-49.1z" />
+                <path id="path255" fill="#000" fill-opacity=".05" d="M162.64 495.07h41.45v5.45h-34.95v52.9h-6.54v-58.35z" />
+                <path id="rect257" fill="#123340" d="M195.9 522.45h4.37v8.3h-4.36z" />
+              </g>
+              <g id="g259">
+                <path id="rect261" fill="#000" fill-opacity=".05" d="M129.9 443.68H179v34.9h-49.1z" />
+                <path id="rect263" fill="#000" fill-opacity=".05" d="M189.9 443.68H239v34.9h-49.1z" />
+                <path id="rect265" fill="#e1f4fa" stroke="#fff" stroke-width="6" d="M129.36 438.36h49.1v34.9h-49.1z" />
+                <path id="rect267" fill="#e1f4fa" stroke="#fff" stroke-width="6" d="M189.36 438.36h49.1v34.9h-49.1z" />
+                <path id="path269" fill="#000" fill-opacity=".05" d="M132.5 441.5h43v6H138V470h-5.5v-28.5z" />
+                <path id="path271" fill="#000" fill-opacity=".05" d="M192.5 441.5h43v6H198V470h-5.5v-28.5z" />
+              </g>
+              <g id="Group-+-Rectangle-372-Copy-92">
+                <g id="g274">
+                  <path id="rect276" fill="#000" fill-opacity=".05" d="M129.9 383.68H179v34.9h-49.1z" />
+                  <path id="rect278" fill="#000" fill-opacity=".05" d="M189.9 383.68H239v34.9h-49.1z" />
+                  <path id="rect280" fill="#e1f4fa" stroke="#fff" stroke-width="6" d="M129.36 378.36h49.1v34.9h-49.1z" />
+                  <path id="rect282" fill="#e1f4fa" stroke="#fff" stroke-width="6" d="M189.36 378.36h49.1v34.9h-49.1z" />
+                  <path id="path284" fill="#000" fill-opacity=".05" d="M132.5 381.5h43v6H138V410h-5.5v-28.5z" />
+                </g>
+                <path id="path286" fill="#000" fill-opacity=".05" d="M192.5 381.5h43v6H198V410h-5.5v-28.5z" />
+              </g>
+              <g id="g288">
+                <path id="rect290" fill="#000" fill-opacity=".05" d="M129.9 323.68H179v34.9h-49.1z" />
+                <path id="rect292" fill="#000" fill-opacity=".05" d="M189.9 323.68H239v34.9h-49.1z" />
+                <path id="rect294" fill="#e1f4fa" stroke="#fff" stroke-width="6" d="M129.36 318.36h49.1v34.9h-49.1z" />
+                <path id="path296" fill="#000" fill-opacity=".05" d="M132.5 321.5h43v6H138V350h-5.5v-28.5z" />
+                <path id="rect298" fill="#e1f4fa" stroke="#fff" stroke-width="6" d="M189.36 318.36h49.1v34.9h-49.1z" />
+                <path id="path300" fill="#000" fill-opacity=".05" d="M192.5 321.5h43v6H198V350h-5.5v-28.5z" />
+              </g>
+            </g>
+          </g>
+          <g id="building1">
+            <path id="rect303" fill="url(#linearGradient-9)" d="M4.08 0h97.96v222.87H4.08z" transform="translate(0 338)" />
+            <path id="rect305" fill="#DADADA" d="M4.08 347.8h97.96v4.08H4.08z" />
+            <g id="g307" transform="translate(0 338)">
+              <use id="use309" fill="#5E8FA5" xlink:href="#path-10" />
+              <use id="use311" xlink:href="#path-10" />
+            </g>
+            <path id="rect313" fill="#F06F2A" d="M4.08 522.1h97.96v39.18H4.08z" />
+            <path id="rect315" fill="#C34400" d="M4.08 522.5h97.96v-.82H4.08z" />
+            <path id="rect317" fill="#FEA474" d="M4.43 532.5h98v-1h-98z" />
+            <path id="rect319" fill="#FEA474" d="M4.43 540.5h98v-1h-98z" />
+            <path id="rect321" fill="#FEA474" d="M4.43 547.5h98v-1h-98z" />
+            <path id="rect323" fill="#FEA474" d="M4.43 554.5h98v-1h-98z" />
+            <g id="windows1">
+              <g id="g326">
+                <path id="rect328" fill="#E2E2E2" d="M35.1 384.53h36.74v26.12H35.1z" />
+                <path id="rect330" fill="#e1f4fa" stroke="#fff" stroke-width="6" d="M34.7 379.68h36.74v26.12H34.7z" />
+                <path id="path332" fill="#000" fill-opacity=".05" d="M37.14 382.12h31.03v4.1H42.04v16.72h-4.9v-20.82z" />
+              </g>
+              <g id="g334">
+                <path id="rect336" fill="#E2E2E2" d="M35.1 429.43h36.74v26.12H35.1z" />
+                <path id="rect338" fill="#e1f4fa" stroke="#fff" stroke-width="6" d="M34.7 424.58h36.74v26.12H34.7z" />
+                <path id="path340" fill="#000" fill-opacity=".05" d="M37.14 427.02h31.03v4.1H42.04v16.72h-4.9v-20.82z" />
+              </g>
+              <g id="g342">
+                <path id="rect344" fill="#E2E2E2" d="M35.1 474.33h36.74v26.12H35.1z" />
+                <path id="rect346" fill="#e1f4fa" stroke="#fff" stroke-width="6" d="M34.7 469.48h36.74v26.12H34.7z" />
+                <path id="path348" fill="#000" fill-opacity=".05" d="M37.14 471.92h31.03v4.1H42.04v16.72h-4.9v-20.82z" />
+              </g>
+              <g id="g350">
+                <path id="rect352" fill="#f0fafe" stroke="#4b4b4b" stroke-width="6" d="M34.7 509.1h36.74v48.98H34.7z" />
+                <path id="path354" fill="#000" fill-opacity=".05" d="M36.14 511.33h31.03v4.08H41.04V555h-4.9v-43.67z" />
+                <path id="rect356" fill="#f06f2a" d="M62.04 530.82h3.27v6.2h-3.23z" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </svg>
+</div>`,
+     css:`* { box-sizing: border-box; }
+html, body {
+  width: 100%;
+  min-height: 100%;
+  margin: 0;
 }
-
-function openModal(index) {
-  showImage(index);
-  modal.classList.add('open');
-  document.body.style.overflow = 'hidden';
-}
-
-function closeModal() {
-  modal.classList.remove('open');
-  document.body.style.overflow = '';
-}
-
-links.forEach((link, index) => {
-  link.addEventListener('click', event => {
-    event.preventDefault();
-    openModal(index);
-  });
-});
-
-modal.querySelector('.gallery-modal-close').addEventListener('click', closeModal);
-modal.querySelector('.gallery-modal-prev').addEventListener('click', () => showImage(currentIndex - 1));
-modal.querySelector('.gallery-modal-next').addEventListener('click', () => showImage(currentIndex + 1));
-modal.addEventListener('click', event => { if (event.target === modal) closeModal(); });
-document.addEventListener('keydown', event => {
-  if (!modal.classList.contains('open')) return;
-  if (event.key === 'Escape') closeModal();
-  if (event.key === 'ArrowLeft') showImage(currentIndex - 1);
-  if (event.key === 'ArrowRight') showImage(currentIndex + 1);
-});`
-    },
-  },
-
-  {
-    id: "No-JS-modal-popup-window",
-    index: "10",
-    category: "Pop-up",
-    title: "No JS modal popup window",
-    excerpt: "No JS modal popup window",
-    date: "25.11.2026",
-    readTime: "1 phút đọc",
-    image: "assets/pop-up/topic-10.jpg",
-    embedUrl: "https://codepen.io/davidicus/pen/ZYjoVO",
-    code: {
-      html: `<!--End of Wrap -->
-<div class="wrap">
-    <h1>Pure <span>CSS</span> Modal Popup</h1>
-
-</div>
-<!--End of Wrap -->
-
-
-<!--Start of Modal -->
-<div class="modal">
-    <input id="modal__trigger" type="checkbox" />
-    <label for="modal__trigger">Launch Modal</label>
-    <div class="modal__overlay" role="dialog" aria-labelledby="modal__title" aria-describedby="modal_desc">
-        <div class="modal__wrap">
-            <label for="modal__trigger">&#10006;</label>
-            <h2 id="modal__title">This is your modal content</h2>
-            <p id="modal__desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac laoreet elit. Phasellus dignissim purus vitae urna cursus, quis congue ligula tristique. Ut nec blandit risus. Donec at orci ut justo venenatis viverra. Suspendisse in volutpat lacus. In enim est, dapibus eget ipsum sed, suscipit ultrices diam.</p>
-        </div>
-    </div>
-</div>
-<!--End of Modal -->`,
-      css: `@import url(https://fonts.googleapis.com/css?family=Lato:300,400,900);
-@import url(https://fonts.googleapis.com/css?family=Audiowide);
-
-$lato: 'Lato', sans-serif;
-
-//color
-$yellow: #FFD300; 
-$white: #f2f1f1;
-$black: #000000;
-$black-light: #5E5E5E;
-
-//font weights:
-$thin: 300;
-$normal: 400;
-$bold: 900;
-
-
-/*==================================== 
-  Some styles to spruce up the demo
-=====================================*/ 
-
 body {
-  background: $white;
-  color: $black-light; 
-  font-family: $lato;
-  font-weight: $thin;
-  text-shadow: 1px 1px 1px #fff;
+  display: grid;
+  place-items: center;
+  overflow: hidden;
+  background: #e8f2f4;
+}
+.Hero {
+  width: 100%;
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
   text-align: center;
 }
-
-h1 { 
-    font-size: 1.5em;
-    font-size: 7vw;
-    line-height: 1.2; 
-    margin: 0;
-    
-    @media (min-width: 500px) {
-        font-size: 2.25em;
-        font-size: 7vw;
-    }
-  
-    @media (min-width: 1000px) {
-        font-size: 4.5em;
-    }
+.Buildings {
+  width: min(94vw, 900px);
+  max-height: 92vh;
+  height: auto;
+  overflow: visible;
+  visibility: visible;
+  transform-origin: center bottom;
+  animation: heroAppear 1.4s cubic-bezier(.16,1,.3,1) both;
 }
-
-h2 {
-    font-size: 1em;
-    line-height: 1.2;
-    margin: 1.414em 0 0.5em;
-    
-    @media (min-width: 500px) {
-        font-size: 1.5em;
-    }
-    
-    @media (min-width: 800px) {
-        font-size: 1.8em;
-    }
+.Buildings #background {
+  transform-box: fill-box;
+  transform-origin: center bottom;
+  animation: backgroundRise 1.2s 1s cubic-bezier(.16,1,.3,1) both;
 }
-
-h1 { 
-  color: $black;
-  font-family: "Audiowide", cursive;
-  font-weight: $bold;
-  margin: 0.5em 0 2.5em;
-  span {
-      color:$yellow;
-  }
+.Buildings [id^="building"] {
+  transform-box: fill-box;
+  transform-origin: center bottom;
+  animation: buildingRise .9s cubic-bezier(.34,1.56,.64,1) both;
 }
-
-.wrap {
-  padding: 1em;
-  text-align: center;
-  @media (min-width: 700px) {
-    padding: 1em 2em;
-  }
+.Buildings [id^="building"] [id^="windows"] g {
+  transform-box: fill-box;
+  transform-origin: center;
+  animation: windowPop .35s cubic-bezier(.34,1.56,.64,1) both;
 }
-
-
-/*==================================== 
-  Our Modal Window styles
-=====================================*/
-.modal {
-  background: #fff;
-  box-shadow: 0 0 3px rgba(0, 0, 0, 0.15);
-  display: inline-block;
-  padding: 1em;
-}
-@media (min-width: 43.75em) {
-  .modal {
-    padding: 1.5em;
-  }
-}
-.modal > label {
-  background: #FFD300;
-  border: 1px solid #f0c600;
-  border-radius: .2em;
-  color: #000000;
-  cursor: pointer;
-  display: inline-block;
-  font-weight: bold;
-  padding: 0.75em 1.5em;
-  text-shadow: 1px 1px 1px #fff;
-  transition: all 0.55s;
-}
-.modal > label:hover {
-  transform: scale(0.97);
-}
-.modal__overlay {
-  background: #000000;
-  bottom: 0;
-  left: 0;
-  position: fixed;
-  right: 0;
-  text-align: center;
-  text-shadow: none;
-  top: 0;
-  z-index: 600;
-}
-.modal__wrap {
-  padding: 1em 0;
-  position: relative;
-  margin: 0 auto;
-  max-width: 500px;
-  width: 90%;
-}
-@media (min-width: 50em) {
-  .modal__wrap {
-    padding: 1.75em;
-  }
-}
-@media (min-height: 37.5em) {
-  .modal__wrap {
-    left: 50%;
-    position: absolute;
-    top: 50%;
-    transform: translate(-50%, -80%);
-  }
-}
-.modal__wrap label {
-  background: #FFD300;
-  border-radius: 50%;
-  color: #000000;
-  cursor: pointer;
-  display: inline-block;
-  height: 1.5em;
-  line-height: 1.5;
-  position: absolute;
-  right: .5em;
-  top: .5em;
-  width: 1.5em;
-}
-.modal__wrap h2 {
-  color: #FFD300;
-  margin-bottom: 1em;
-  text-transform: uppercase;
-}
-.modal__wrap p {
-  color: #FFD300;
-  text-align: justify;
-}
-.modal input:focus ~ label {
-  transform: scale(0.97);
-}
-
-input {
-  position: absolute;
-  top: -1000px;
-}
-
-.modal__overlay {
-  opacity: 0;
-  transform: scale(0.5);
-  transition: all 0.75s cubic-bezier(0.68, -0.55, 0.265, 1.55);
-  z-index: -100;
-}
-
-input:checked ~ .modal__overlay {
-  opacity: 1;
-  transform: scale(1);
-  z-index: 800;
+@keyframes heroAppear { from { opacity: 0; transform: scale(.94); } to { opacity: 1; transform: scale(1); } }
+@keyframes backgroundRise { from { transform: scaleY(0); } to { transform: scaleY(1); } }
+@keyframes buildingRise { from { transform: scaleY(0); } to { transform: scaleY(1); } }
+@keyframes windowPop { from { transform: scale(0); } to { transform: scale(1); } }
+@media (max-width: 600px) {
+  .Buildings { width: 100%; }
 }`,
-        // js: ``
+        js: `const buildings = document.querySelectorAll('.Buildings [id^="building"]');
+const background = document.querySelector('.Buildings #background');
+
+if (background) {
+  background.style.opacity = '0';
+  background.animate(
+    [{ transform: 'scaleY(0)', opacity: 0 }, { transform: 'scaleY(1)', opacity: 1 }],
+    { duration: 1000, delay: 1000, easing: 'cubic-bezier(.16,1,.3,1)', fill: 'forwards' }
+  );
+}
+
+buildings.forEach((building, index) => {
+  building.animate(
+    [{ transform: 'scaleY(0)', opacity: 0 }, { transform: 'scaleY(1)', opacity: 1 }],
+    {
+      duration: 700,
+      delay: 170 + index * 175,
+      easing: 'cubic-bezier(.34,1.56,.64,1)',
+      fill: 'forwards'
+    }
+  );
+
+  building.querySelectorAll('[id^="windows"] g').forEach((windowItem, windowIndex) => {
+    windowItem.animate(
+      [{ transform: 'scale(0)', opacity: 0 }, { transform: 'scale(1)', opacity: 1 }],
+      {
+        duration: 170,
+        delay: 700 + index * 175 + windowIndex * 170,
+        easing: 'cubic-bezier(.34,1.56,.64,1)',
+        fill: 'forwards'
+      }
+    );
+  });
+});`
     },
   },
 
@@ -2416,7 +2247,7 @@ body { display: grid; place-items: center; overflow: hidden; background: #89e9c2
   <a class="gallery-link" href="https://picsum.photos/id/173/1200/900" title="Ocean"><figure class="gallery-image"><img src="https://picsum.photos/id/173/900/600" alt="Ocean"><figcaption>Ocean</figcaption></figure></a>
   <a class="gallery-link" href="https://picsum.photos/id/943/1200/900" title="Portrait"><figure class="gallery-image"><img src="https://picsum.photos/id/943/900/600" alt="Portrait"><figcaption>Portrait</figcaption></figure></a>
 </article>`;
-      css = `*{box-sizing:border-box}body{margin:0;padding:24px;background:#f3f0eb;font-family:Arial,sans-serif}.gallery{column-count:3;column-gap:0}.gallery-link{display:block;break-inside:avoid;text-decoration:none}.gallery-image{position:relative;margin:0;overflow:hidden;background:#ddd}.gallery-image:before,.gallery-image:after{content:'';position:absolute;z-index:2;inset:0;border:16px solid rgba(0,0,0,.1);transition:.2s;pointer-events:none}.gallery-image:after{border-width:0}.gallery-image img{display:block;width:100%;height:auto}.gallery-image figcaption{position:absolute;z-index:3;left:50%;top:50%;width:calc(100% - 9em);padding:1em;transform:translate(-50%,-50%);color:transparent;font-size:14px;font-weight:600;text-align:center;transition:.2s}.gallery-image:hover:after{border-width:32px}.gallery-image:hover figcaption{color:#fff;text-shadow:0 0 1px #000;transition-delay:.3s}.gallery-modal{position:fixed;z-index:9999;inset:0;display:grid;place-items:center;padding:48px 8%;background:rgba(0,0,0,.92);opacity:0;visibility:hidden;transition:.35s}.gallery-modal.open{opacity:1;visibility:visible}.gallery-modal img{max-width:82vw;max-height:82vh;opacity:0;transform:scale(.92);transition:.35s}.gallery-modal.open img{opacity:1;transform:scale(1)}.gallery-modal button{position:absolute;border:0;background:transparent;color:#fff;cursor:pointer}.gallery-modal-close{top:18px;right:24px;font-size:38px}.gallery-modal-prev,.gallery-modal-next{top:50%;width:20%;height:40%;transform:translateY(-50%);font-size:42px}.gallery-modal-prev{left:0}.gallery-modal-next{right:0}.gallery-modal-caption{position:absolute;bottom:16px;color:#fff}@media(max-width:1260px){.gallery{column-count:2}}@media(max-width:479px){body{padding:12px}.gallery{column-count:1}}`;
+      css = `*{box-sizing:border-box}body{margin:0;padding:24px;background:#f3f0eb;font-family:Arial,sans-serif}.gallery{column-gap:0;column-count:3}.gallery-link{display:block;break-inside:avoid;text-decoration:none}.gallery-image{position:relative;margin:0;overflow:hidden;background:#ddd}.gallery-image:before,.gallery-image:after{content:'';position:absolute;z-index:2;inset:0;border:16px solid rgba(0,0,0,.1);transition:.2s;pointer-events:none}.gallery-image:after{border-width:0}.gallery-image img{display:block;width:100%;height:auto}.gallery-image figcaption{position:absolute;z-index:3;left:50%;top:50%;width:calc(100% - 9em);padding:1em;transform:translate(-50%,-50%);color:transparent;font-size:14px;font-weight:600;text-align:center;transition:.2s}.gallery-image:hover:after{border-width:32px}.gallery-image:hover figcaption{color:#fff;text-shadow:0 0 1px #000;transition-delay:.3s}.gallery-modal{position:fixed;z-index:9999;inset:0;display:grid;place-items:center;padding:48px 8%;background:rgba(0,0,0,.92);opacity:0;visibility:hidden;transition:.35s}.gallery-modal.open{opacity:1;visibility:visible}.gallery-modal img{max-width:82vw;max-height:82vh;opacity:0;transform:scale(.92);transition:.35s}.gallery-modal.open img{opacity:1;transform:scale(1)}.gallery-modal button{position:absolute;border:0;background:transparent;color:#fff;cursor:pointer}.gallery-modal-close{top:18px;right:24px;font-size:38px}.gallery-modal-prev,.gallery-modal-next{top:50%;width:20%;height:40%;transform:translateY(-50%);font-size:42px}.gallery-modal-prev{left:0}.gallery-modal-next{right:0}.gallery-modal-caption{position:absolute;bottom:16px;color:#fff}@media(max-width:1260px){.gallery{column-count:2}}@media(max-width:479px){body{padding:12px}.gallery{column-count:1}}`;
       js = `const links=[...document.querySelectorAll('.gallery-link')];const modal=document.createElement('div');modal.className='gallery-modal';modal.innerHTML='<button class="gallery-modal-close">×</button><button class="gallery-modal-prev">‹</button><img alt=""><button class="gallery-modal-next">›</button><span class="gallery-modal-caption"></span>';document.body.appendChild(modal);const image=modal.querySelector('img'),caption=modal.querySelector('.gallery-modal-caption');let index=0;function show(i){index=(i+links.length)%links.length;image.src=links[index].href;image.alt=links[index].title;caption.textContent=links[index].title}function open(i){show(i);modal.classList.add('open')}function close(){modal.classList.remove('open')}links.forEach((link,i)=>link.addEventListener('click',e=>{e.preventDefault();open(i)}));modal.querySelector('.gallery-modal-close').addEventListener('click',close);modal.querySelector('.gallery-modal-prev').addEventListener('click',()=>show(index-1));modal.querySelector('.gallery-modal-next').addEventListener('click',()=>show(index+1));modal.addEventListener('click',e=>{if(e.target===modal)close()});document.addEventListener('keydown',e=>{if(!modal.classList.contains('open'))return;if(e.key==='Escape')close();if(e.key==='ArrowLeft')show(index-1);if(e.key==='ArrowRight')show(index+1});`;
       cssForPreview = css;
       jsForPreview = js;
